@@ -1,5 +1,5 @@
 # NeuralNet
-Create any number of layers of feed-forward neural network (MLPs) easily.
+Creates any number of layers of feed-forward neural network (MLPs) easily.
 
 # TO GET IT WORKING
 - Download or clone the project.
@@ -9,5 +9,5 @@ Create any number of layers of feed-forward neural network (MLPs) easily.
 - Now in 'model.py' just specify [no. neurons, activation function to use, dropout] for each layer you create.
 
 #### This will create a neural network with any no. of layers as you specify.
-#### Change the parameter and hyper-parameters as required.
-#### Run the script and accuracy can be monitored as the training progresses.
+#### Change hyper-parameters as required.
+#### Run the script; accuracy can be monitored as the training progresses.
